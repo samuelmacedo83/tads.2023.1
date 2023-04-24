@@ -1,4 +1,4 @@
-# função para somar
+# função para somargi
 somar <- function(a, b) {
   a + b
 }
