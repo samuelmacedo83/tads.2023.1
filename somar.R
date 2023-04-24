@@ -7,3 +7,8 @@ somar <- function(a, b) {
 diminuir <- function(a, b){
   a - b
 }
+
+#função multiplicar
+multiplicar <- function(a, b){
+  a * b
+}
